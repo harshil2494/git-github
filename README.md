@@ -1,2 +1,2 @@
 # git-github
-practice commands
+welcome to my practice!
